@@ -1,0 +1,14 @@
+.idea/
+node_modules
+.lock-wscript
+.DS_Store
+Thumbs.db
+npm-debug.log
+.project
+save_schema.ods
+settings.json
+
+
+dist/
+
+dest_bak/

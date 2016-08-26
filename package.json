@@ -1,0 +1,15 @@
+{
+  "name": "ng-co",
+  "version": "0.1.0",
+  "main": "./src/index.js",
+  "scripts": {},
+  "author": [
+    "regou"
+  ],
+  "license": "MPL",
+  "homepage": "https://github.com/regou/ngCo",
+  "devDependencies": {},
+  "dependencies": {
+    "is-generator": "^1.0.3"
+  }
+}
