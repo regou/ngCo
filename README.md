@@ -12,7 +12,7 @@ Generator based ng-controller inspired by the famous co
 require('ng-co');
 
 angular.module('my-module', ['ng-co'])
-	.controller('myFirstCtrl', ['$co',function($co) {
+	.controller('myFirstCtrl', ['$co', '$scope',function($co, $scope) {
 		$co(function*() {
 			var data = yield $http.get('/users');
 			$scope.data = data;
