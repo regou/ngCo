@@ -2,7 +2,7 @@
   "name": "ng-co",
   "changelog": false,
   "release": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./src/index.js",
   "scripts": {},
   "author": [
@@ -11,7 +11,5 @@
   "license": "MPL",
   "homepage": "https://github.com/regou/ngCo",
   "devDependencies": {},
-  "dependencies": {
-    "is-generator": "^1.0.3"
-  }
+  "dependencies": {}
 }
